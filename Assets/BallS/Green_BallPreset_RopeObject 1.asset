@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b129d38da7f1eda458b31a1a13d1b0ed, type: 3}
+  m_Name: Green_BallPreset_RopeObject 1
+  m_EditorClassIdentifier: 
+  amplitudeData:
+    amplitudeSpeed: 1
+  ropeObjectPrefab: {fileID: -7221941951095722387, guid: b0577dcb36e19ec47a22070d9d955c1a, type: 3}
+  ballType: 2
+  color: {r: 0.32184574, g: 1, b: 0.031372547, a: 1}
+  countPointsAdd: 5
